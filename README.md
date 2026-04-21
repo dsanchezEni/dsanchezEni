@@ -3,7 +3,7 @@
 🎓 Formateur en développement informatique<br>
 💻 Développeur passionné par le web et les outils pédagogiques<br>
 🚀 J'accompagne des apprenants vers des métiers techniques avec des projets concrets et innovants<br>
-J'ai déjà formé plus de 4000 apprenants.
+🧠 J'ai déjà formé plus de 4000 apprenants.
 
 ---
 
