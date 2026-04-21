@@ -3,6 +3,7 @@
 🎓 Formateur en développement informatique
 💻 Développeur passionné par le web et les outils pédagogiques
 🚀 J'accompagne des apprenants vers des métiers techniques avec des projets concrets et innovants
+J'ai déjà formé plus de 4000 apprenants.
 
 ---
 
@@ -12,6 +13,18 @@
 * 💡 Créateur de projets pédagogiques (quiz, apps, supports interactifs)
 * 🔧 Intéressé par Docker, la sécurité, l'IA, le développement web et les outils modernes
 * 🌱 Toujours en veille et en expérimentation
+
+---
+
+🧠 Ce qui me différencie
+
+✨ Double compétence :
+
+👨‍🏫 Pédagogie (transmission, animation, accompagnement)
+💻 Technique (développement web & outils modernes)
+
+🔥 Mon objectif :
+Créer des expériences d’apprentissage engageantes et utiles dans le monde réel.
 
 ---
 
@@ -55,6 +68,7 @@
 💬 Ce qui me caractérise :
 
 * Apprentissage par la pratique (learning by doing)
+* Apprendre en faisant des erreurs.
 * Projets concrets et utiles
 * Approche humaine et dynamique
 * Encouragement à la créativité
@@ -74,10 +88,19 @@
 * 💼 LinkedIn : https://www.linkedin.com/in/sanchezdenis/
 
 ---
+🧪 En cours
+
+🚧 Création de nouveaux projets pédagogiques interactifs
+🐳 Expérimentations autour de Docker
+🧠 Nouvelles approches d’apprentissage
+
+---
 
 ## ⚡ Fun fact
 
 🎸 Métal dans les oreilles, code dans les mains
-☀️ Et toujours partant pour transmettre et innover
+☀️ Ma passion transmettre et innover
+💡 Idées en boucle
+🚀 Toujours en train de créer quelque chose
 
 ---
